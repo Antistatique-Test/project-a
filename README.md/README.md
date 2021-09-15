@@ -1,3 +1,3 @@
 # Project A
 
-A project to test Jira integration.
+A project to test Jira integration and sync.
