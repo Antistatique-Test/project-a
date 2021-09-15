@@ -1,3 +1,3 @@
 # Project A
 
-A project to test Jira
+A project to test Jira.
